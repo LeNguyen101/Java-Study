@@ -1,7 +1,7 @@
 public class Exercise1 {
     public static void main(String[] args) {
      //1.
-     /*1.Part of program taht specifies one step algorithm and a part of program that contains
+     /*1.Part of program that specifies one step algorithm and a part of program that contains
       information abuot the program but has no effect when the program runs.
       *2.The ability of a program to run on more than one kind of computer.
       *3.To translate an program in a hight-level language in to low-level language,
