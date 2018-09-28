@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ValidatingInput
+comment1.params=x
+comment1.target=void\ printLogarithm(double)
+comment2.params=in
+comment2.target=void\ scanDouble(java.util.Scanner)
+numComments=3

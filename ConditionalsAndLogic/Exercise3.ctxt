@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Exercise3
+comment1.params=n
+comment1.target=void\ countdown(int)
+comment2.params=n
+comment2.target=void\ nLines(int)
+numComments=3
